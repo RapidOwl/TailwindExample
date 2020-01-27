@@ -7,7 +7,7 @@
 
 @font-face {
 	font-family: 'UNiDAYSPro-Demi';
-	src: url("all-demi.woff2") format('woff2'), url("all-demi.woff") format('woff');
+	src: url("all-demi.woff2") format('woff2');
 	font-weight: normal;
 	font-style: normal;
 }

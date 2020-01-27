@@ -607,7 +607,7 @@ video {
 @font-face {
   font-family: 'UNiDAYSPro-Demi';
 
-  src: url("all-demi.woff2") format('woff2'), url("all-demi.woff") format('woff');
+  src: url("/all-demi.c8834bc9.woff2") format('woff2');
 
   font-weight: normal;
 
@@ -23394,3 +23394,6 @@ video {
     z-index: auto;
   }
 }
+
+
+/*# sourceMappingURL=/styles.8986bff4.css.map */

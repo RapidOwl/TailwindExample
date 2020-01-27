@@ -1,10 +1,11 @@
 {
-  "name": "TailwindExample",
+  "name": "tailwind-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npx tailwind build src/styles.css -o dist/css/output.css",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

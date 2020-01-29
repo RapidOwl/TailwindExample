@@ -12,6 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tailwindcss": "^1.1.4"
+    "tailwindcss": "^1.1.4",
+    "postcss-import": "^12.0.1"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
   }
 }

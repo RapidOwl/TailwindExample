@@ -1,0 +1,39 @@
+.font-demi {
+    font-family: 'UNiDAYSPro-Demi';
+}
+
+.mt-px-112 {
+    margin-top: 112px;
+}
+
+.max-w-px-1500 {
+    max-width: 1500px;
+}
+
+.bg-pale-blue {
+    background-color: #edf3f7;
+}
+
+.text-electric-blue {
+    color: var(--electric-blue);
+}
+
+.bg-electric-blue {
+    background-color: var(--electric-blue);
+}
+
+.border-electric-blue {
+    border-color: var(--electric-blue);
+}
+
+.text-midnight-blue {
+    color: var(--midnight-blue);
+}
+
+.bg-midnight-blue {
+    background-color: var(--midnight-blue);
+}
+
+.border-midnight-blue {
+    border-color: var(--midnight-blue);
+}

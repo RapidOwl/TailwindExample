@@ -1,0 +1,55 @@
+.main {
+    @apply mt-px-112 bg-pale-blue;
+}
+
+.content-wrapper {
+    @apply max-w-px-1500 mx-auto px-4 py-8;
+}
+
+.content-header > h1 {
+    @apply font-demi text-2xl pb-6;
+}
+
+.content {
+    @apply rounded bg-white shadow-lg p-4;
+}
+
+.content > h1 {
+    @apply text-xl font-demi mb-6;
+}
+
+.content > h2 {
+    @apply text-base font-demi mb-3;
+}
+
+.content > *:last-child {
+    margin-bottom: 0;
+}
+
+.component-sample {
+    @apply mb-6;
+}
+
+.code {
+    @apply p-3 mt-4 bg-gray-200 rounded;
+}
+
+.btn {
+    @apply font-demi w-56 text-base p-3 rounded mr-3 border-2 border-midnight-blue;
+}
+
+.btn-primary {
+    @apply text-white bg-midnight-blue;
+}
+
+.btn-primary:hover {
+    @apply bg-electric-blue border-electric-blue;
+}
+
+.btn-secondary {
+    @apply text-midnight-blue;
+}
+
+.btn-secondary:hover {
+    @apply text-electric-blue border-electric-blue;
+}

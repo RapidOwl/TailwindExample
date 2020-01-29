@@ -1,0 +1,11 @@
+:root {
+    --electric-blue: #1343DE;
+    --midnight-blue: #002D50;
+}
+
+@font-face {
+	font-family: 'UNiDAYSPro-Demi';
+	src: url("all-demi.woff2") format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
